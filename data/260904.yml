@@ -7,7 +7,7 @@ about:
   head: 8edafbd
   archived: false
   latestVersion: v20250220
-  collectedAt: 2026-09-04T19:56:27Z
+  collectedAt: 2026-09-04T20:48:01Z
 timeline:
   created: 2019-08-10
   lastCommit: 2025-02-20
@@ -82,5 +82,38 @@ total:
   openIssue: 2
   commit: 75
 ---
+path: /home/runner/.x-repo/github.com/txthinking/joker
+collectedAt: 2026-09-04T20:48:02Z
+loc:
+  C:
+    code: 240
+    comments: 27
+    blanks: 20
+    files: 2
+  Sh:
+    code: 28
+    comments: 1
+    blanks: 7
+    files: 1
+  CHeader:
+    code: 20
+    comments: 13
+    blanks: 4
+    files: 1
+  Makefile:
+    code: 9
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 31
+    blanks: 19
+    files: 1
+total:
+  code: 297
+  comments: 72
+  blanks: 53
+  files: 6
 ---
 
