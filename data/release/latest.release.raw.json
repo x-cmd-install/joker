@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 31573,
       "digest": null,
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2025-02-20T03:27:25Z",
       "updated_at": "2025-02-20T03:27:25Z",
       "browser_download_url": "https://github.com/txthinking/joker/releases/download/v20250220/joker_darwin_amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 52152,
       "digest": null,
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2025-02-20T03:27:25Z",
       "updated_at": "2025-02-20T03:27:26Z",
       "browser_download_url": "https://github.com/txthinking/joker/releases/download/v20250220/joker_darwin_arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 497128,
       "digest": null,
-      "download_count": 1367,
+      "download_count": 1369,
       "created_at": "2025-02-20T03:27:26Z",
       "updated_at": "2025-02-20T03:27:27Z",
       "browser_download_url": "https://github.com/txthinking/joker/releases/download/v20250220/joker_linux_amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 39496,
       "digest": null,
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2025-02-20T03:27:27Z",
       "updated_at": "2025-02-20T03:27:28Z",
       "browser_download_url": "https://github.com/txthinking/joker/releases/download/v20250220/joker_linux_amd64_gnu"
