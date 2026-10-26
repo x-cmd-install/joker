@@ -238,7 +238,7 @@
   binname: joker
   visiblename: lang/joker
   version: 1.10.0
-  origversion: 1.10.0nb1
+  origversion: 1.10.0nb2
   status: newest
   summary: Clojure dialect and linter
   maintainers:
