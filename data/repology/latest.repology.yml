@@ -1,3 +1,15 @@
+- repo: aur
+  srcname: joker
+  binname: joker
+  visiblename: joker
+  version: 1.10.0
+  origversion: 1.10.0-1
+  status: newest
+  summary: Small Clojure interpreter, linter, and formatter
+  maintainers:
+    - lmartinez-mirror@aur
+  licenses:
+    - EPL-1.0
 - repo: alpine_3_19
   subrepo: community
   srcname: joker
@@ -82,23 +94,11 @@
   binname: joker
   visiblename: joker
   version: 1.5.8
-  origversion: 1.5.8-r7
+  origversion: 1.5.8-r8
   status: outdated
   summary: Small Clojure interpreter, linter and formatter written in Go
   maintainers:
     - wanghao03@loongson.cn
-  licenses:
-    - EPL-1.0
-- repo: aur
-  srcname: joker
-  binname: joker
-  visiblename: joker
-  version: 1.10.0
-  origversion: 1.10.0-1
-  status: newest
-  summary: Small Clojure interpreter, linter, and formatter
-  maintainers:
-    - lmartinez-mirror@aur
   licenses:
     - EPL-1.0
 - repo: aur
