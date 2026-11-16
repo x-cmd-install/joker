@@ -1,3 +1,17 @@
+- repo: homebrew
+  srcname: joker
+  visiblename: joker
+  version: 1.10.0
+  origversion: null
+  status: newest
+  summary: Small Clojure interpreter, linter and formatter
+- repo: homebrew
+  srcname: joker
+  visiblename: joker
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Small Clojure interpreter, linter and formatter
 - repo: alpine_3_19
   subrepo: community
   srcname: joker
@@ -125,20 +139,6 @@
     - lmartinez-mirror@aur
   licenses:
     - EPL-1.0
-- repo: homebrew
-  srcname: joker
-  visiblename: joker
-  version: 1.10.0
-  origversion: null
-  status: newest
-  summary: Small Clojure interpreter, linter and formatter
-- repo: homebrew
-  srcname: joker
-  visiblename: joker
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Small Clojure interpreter, linter and formatter
 - repo: nix_stable_24_05
   srcname: joker
   visiblename: joker
@@ -238,7 +238,7 @@
   binname: joker
   visiblename: lang/joker
   version: 1.10.0
-  origversion: 1.10.0nb2
+  origversion: 1.10.0nb3
   status: newest
   summary: Clojure dialect and linter
   maintainers:
